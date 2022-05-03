@@ -1,0 +1,13 @@
+C:\Users\med\Desktop\Stagiaire\Héritage\Dérivée\bin\Debug\Dérivée.exe.config
+C:\Users\med\Desktop\Stagiaire\Héritage\Dérivée\obj\Debug\Dérivée.exe
+C:\Users\med\Desktop\Stagiaire\Héritage\Dérivée\obj\Debug\Dérivée.pdb
+C:\Users\med\Desktop\Stagiaire\Héritage\Dérivée\bin\Debug\Dérivée.exe
+C:\Users\med\Desktop\Stagiaire\Héritage\Dérivée\bin\Debug\Dérivée.pdb
+C:\Users\med\Desktop\Stagiaire\Héritage\Dérivée\obj\Debug\N1.csprojResolveAssemblyReference.cache
+C:\Users\med\Desktop\Stagiaire\Héritage\Dérivée\bin\Debug\N1.exe.config
+C:\Users\med\Desktop\Stagiaire\Héritage\N1\bin\Debug\N1.exe.config
+C:\Users\med\Desktop\Stagiaire\Héritage\N1\bin\Debug\N1.exe
+C:\Users\med\Desktop\Stagiaire\Héritage\N1\bin\Debug\N1.pdb
+C:\Users\med\Desktop\Stagiaire\Héritage\N1\obj\Debug\N1.csprojResolveAssemblyReference.cache
+C:\Users\med\Desktop\Stagiaire\Héritage\N1\obj\Debug\N1.exe
+C:\Users\med\Desktop\Stagiaire\Héritage\N1\obj\Debug\N1.pdb

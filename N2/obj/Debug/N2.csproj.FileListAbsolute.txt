@@ -1,0 +1,6 @@
+C:\Users\med\Desktop\Stagiaire\Héritage\N2\bin\Debug\N2.exe.config
+C:\Users\med\Desktop\Stagiaire\Héritage\N2\bin\Debug\N2.exe
+C:\Users\med\Desktop\Stagiaire\Héritage\N2\bin\Debug\N2.pdb
+C:\Users\med\Desktop\Stagiaire\Héritage\N2\obj\Debug\N2.exe
+C:\Users\med\Desktop\Stagiaire\Héritage\N2\obj\Debug\N2.pdb
+C:\Users\med\Desktop\Stagiaire\Héritage\N2\obj\Debug\N2.csprojResolveAssemblyReference.cache
